@@ -27,7 +27,6 @@ const sr = ScrollReveal({
 });
 
 // Upgraded reveals with staggered delays and refined origins
-sr.reveal('.home-img', { delay: 200, origin: 'right' });
 sr.reveal('.text', { delay: 100, origin: 'top' });
 sr.reveal('.home-text', { delay: 300, origin: 'bottom' });
 sr.reveal('.heading', { delay: 400, origin: 'bottom' });
